@@ -43,7 +43,7 @@ if (!OPENAI_API_KEY) {
     console.log("No OPENAI_API_KEY found. Please set it as environment variable.")
 }
 if (!MODEL_NAME) {
-    MODEL_NAME = "gpt-5"
+    MODEL_NAME = "gpt-5-nano"
 }
 if (!TWITCH_USER) {
     TWITCH_USER = "oSetinhasBot"
