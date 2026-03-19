@@ -37,6 +37,7 @@ export class OpenAIOperations {
                 top_p: 1,
                 frequency_penalty: 0,
                 presence_penalty: 0,
+                reasoning_effort: low,
             });
 
             // Check if response has choices
