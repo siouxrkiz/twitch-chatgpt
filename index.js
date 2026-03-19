@@ -75,7 +75,7 @@ if (!ENABLE_TTS) {
     ENABLE_TTS = "false"
 }
 if (!ENABLE_CHANNEL_POINTS) {
-    ENABLE_CHANNEL_POINTS = "false";
+    ENABLE_CHANNEL_POINTS = "true";
 }
 
 // init global variables
